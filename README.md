@@ -3,7 +3,7 @@ This dashboard was created with SQL queries in Databricks
 
 
 
-[![Open Dashboard](https://img.shields.io/badge/Open-Dashboard-blue?style=for-the-badge&logo=github)](https://vlc-jv.github.io/Spotify-Insights-single-user-dashboard-Databricks/)
+[![Open Dashboard](https://img.shields.io/badge/Open-Dashboard-blue?style=for-the-badge&logo=github)](https://vlcjv.github.io/Spotify-Insights-single-user-dashboard-Databricks/)
 
 
 
