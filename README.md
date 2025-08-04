@@ -2,6 +2,12 @@
 This dashboard was created with SQL queries in Databricks
 
 
+
+[![Open Dashboard](https://img.shields.io/badge/Open-Dashboard-blue?style=for-the-badge&logo=github)](https://vlc-jv.github.io/Spotify-Insights-single-user-dashboard-Databricks/)
+
+
+
+
 Dashboard preview:
 <img width="1641" height="689" alt="obraz" src="https://github.com/user-attachments/assets/25b81238-df5b-4a79-a531-17ac80ae53fc" />
 
